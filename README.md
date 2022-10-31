@@ -1,4 +1,4 @@
-<h3 align="center">¡Hey 👋! Soy Alessandro👨🏻‍💻</h3> </p> <p align="center">Soy <strong>Desarrollador para Android</strong> en proceso de aprendizaje, con un largo camino por recorrer.<br /></p>
+<h3 align="center">¡Hey 👋! Soy Alessandro👨🏻‍💻</h3> </p> <p align="center">Soy <strong>Desarrollador para Android</strong> en proceso de aprendizaje, con un largo camino por recorrer. Soy el creador de Fácil, una aplicación cubana 🇨🇺 y para cubanos.<br /></p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=esalessandrxx&show_icons=true&theme=radical)
 <br/>
