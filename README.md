@@ -3,7 +3,7 @@
 
 <p align="centro">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25¢er=true&vCenter=true&lines=A+Un+Aprendiz+Apasionado!;Un+dia+a+la+vez">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25¢er=true&vCenter=true&lines=Un+Aprendiz+Apasionado!;Un+dia+a+la+vez">
 
 </p>
 
