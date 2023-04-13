@@ -1,5 +1,5 @@
 <h3 align="center">¡Hey 👋! Soy Alessandro👨🏻‍💻</h3>
-</p> <p align="center">Soy <strong>Desarrollador para Android</strong> en proceso de aprendizaje, con un largo camino por recorrer. Soy el creador de <a href="https://github.com/esalessandrxx/simple-cuba">SIMple</a> (anteriormente Fácil), una aplicación cubana 🇨🇺 y para cubanos.<br /></p>
+</p> <p align="center"><strong>Desarrollador para Android</strong> en proceso de aprendizaje, con un largo camino por recorrer. Creador de <a href="https://github.com/esalessandrxx/simple-cuba">SIMple</a>, una aplicación cubana, para cubanos.<br /></p>
 
 <p align="centro">
 
